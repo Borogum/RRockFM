@@ -1,0 +1,500 @@
+#https://www.eurowon.com/2014/09/las-500-mejores-canciones-del-rock.html
+1 → LED ZEPPELIN - Stairway to heaven
+2 → THE ROLLING STONES - (Can't get no) Satisfaction
+3 → QUEEN - Bohemian rhapsody
+4 → AC/DC - Highway to hell
+5 → DEEP PURPLE - Smoke on the water
+6 → GUNS N' ROSES - Sweet child o' mine
+7 → BRUCE SPRINGSTEEN - Born to run
+8 → BON JOVI - Livin' on a prayer
+9 → BOB DYLAN - Like a rolling stone
+10 → DIRE STRAITS - Sultans of swing
+11 → PINK FLOYD - Wish you were here
+12 → THE WHO - My generation
+13 → NIRVANA - Smells like teen spirit
+14 → U2 - With or without you
+15 → CREEDENCE CLEARWATER - Fortunate son
+16 → THE BEATLES - Hey Jude
+17 → THE DOORS - Break on though
+18 → AC/DC - You shook me all night long
+19 → BLACK SABBATH - Paranoid
+20 → METALLICA - Nothing else matters
+21 → DEREK & THE DOMINOS - Layla
+22 → THE EAGLES - Hotel California
+23 → STEPPENWOLF - Born to be wild
+24 → NEIL YOUNG - Rockin' in the free world
+25 → JIMI HENDRIX - Hey Joe
+26 → LEÑO / ROSENDO - Maneras de vivir
+27 → ZZ TOP - La Grange
+28 → LYNYRD SKYNYRD - Sweet home Alabama
+29 → ELVIS PRESLEY - Jailhouse rock
+30 → LOU REED - Walk on the wild side
+31 → WHITESNAKE - Here I go again
+32 → CHUCK BERRY - Johnny B. Goode
+33 → METALLICA - One
+34 → RAMONES - Rock and roll radio
+35 → BUFFALO SPRINGFIELD - For what it's worth
+36 → THE WHITE STRIPES - Seven nation army
+37 → BRUCE SPRINGSTEEN - Glory days
+38 → CREEDENCE CLEARWATER REVIVAL - Proud Mary
+39 → DIO - We rock
+40 → THE ROLLING STONES - Sympathy for the Devil
+41 → SCORPIONS - Still loving you
+42 → THE DOORS - Light my fire
+43 → JJ CALE - Cocaine
+44 → VAN HALEN - Jump
+45 → PINK FLOYD - Another brick on the wall
+46 → THE TROGGS - Wild thing
+47 → JETHRO TULL - Aqualung
+48 → THE BEACH BOYS - Surfin' USA
+49 → QUEEN - Innuendo
+50 → AC/DC - Let there be rock
+51 → BRUCE SPRINGSTEEN - Born in the USA
+52 → U2 - Sunday bloody Sunday
+53 → JANIS JOPLIN - Cry baby
+54 → THE ROLLING STONES - Gimme shelter
+55 → VAN MORRISON / THEM - Gloria
+56 → DEEP PURPLE - Highway star
+57 → DAVID BOWIE - Heroes
+58 → THE BAND - The weight
+59 → OASIS - Wonderwall
+60 → THE WHO - Won't get fooled again
+61 → MAMAS & THE PAPAS - California dreamin'
+62 → BOB DYLAN - Knockin' on heaven's door
+63 → JUDAS PRIEST - Living after midnight
+64 → THE GUESS WHO - American woman
+65 → THE BEATLES - Twist and shout
+66 → THE POLICE - So lonely
+67 → FREE - Allright now
+68 → TOM PETTY - American girl
+69 → ROD STEWART - Maggie May
+70 → ALICE COOPER - Schhol's out
+71 → PEARL JAM - Alive
+72 → THE ROLLING STONES - Jumpin' Jack Flash
+73 → THIN LIZZY - The boys are back in town
+74 → AC/DC - Thunderstruck
+75 → RED HOT CHILI PEPPERS - Under the bridge
+76 → PINK FLOYD - Comfortably numb
+77 → LEÑO / ROSENDO - Flojos del pantalón
+78 → CREEDENCE CLEARWATER REVIVAL - Have you ever seen the rain?
+79 → IRON MAIDEN - Run to the hills
+80 → QUEEN - The show must go on
+81 → DON MCLEAN - American pie
+82 → TWISTED SISTER - We're not gonna take it
+83 → METALLICA - Master of puppets
+84 → MOTÖRHEAD - Ace of spades
+85 → BURNING - ¿Qué hace una chica como tú en un sitio como este?
+86 → JOHN FOGERTY - Rockin' all over the world
+87 → NIRVANA - Come as you are
+88 → THE DOORS - L.A. woman
+89 → BRUCE SPRINGSTEEN - Thunder road
+90 → THE BLACK CROWES - Hard to handle
+91 → SCORPIONS - Wind of change
+92 → THE ROLLING STONES - Start me up
+93 → THE CLASH - London calling
+94 → BOB DYLAN - Blowin' in the wind
+95 → GUNS N' ROSES - November rain
+96 → QUEEN - I want it all
+97 → T REX - Get it on
+98 → LITTLE RICHARD - Tutti frutti
+99 → OZZY OSBOURNE - Crazy train
+100 → FOO FIGHTERS - Everlong
+101 → DEEP PURPLE - Black night
+102 → IRON MAIDEN - 2 minutes to midnight
+103 → GARY MOORE - Still got the blues
+104 → SURVIVOR - Burning heart
+105 → JIMI HENDRIX - Purple haze
+106 → NIRVANA - About a girl
+107 → BON JOVI - Bad medicine
+108 → BRUCE SPRINGSTEEN - The river
+109 → GRAND FUNK RAILROAD - We're an American band
+110 → GREEN DAY - Basket case
+111 → QUEEN - Fat bottomed girls
+112 → FITO Y FITIPALDIS - Quiero beber hasta perder el control
+113 → KISS - I was made for loving you
+114 → NEIL YOUNG - Heart of gold
+115 → U2 - Pride (In the name of love)
+116 → AEROSMITH - I don't want to miss a thing
+117 → STATUS QUO - Whatever you want
+118 → SPENCER DAVIES GROUP - Gimme some lovin'
+119 → BLONDIE - Call me
+120 → AC/DC - Back in black
+121 → GARY MOORE - Walking by myself
+122 → LED ZEPPELIN - Rock and roll
+123 → ALICE IN CHAINS - Man in the box
+124 → THE ROLLING STONES - Paint it black
+125 → JOURNEY - Don't stop believing
+126 → SYSTEM OF A DOWN - Chop suey
+127 → THE BEATLES - A hard day's night
+128 → T REX - 20th century boy
+129 → COLDPLAY - Clocks
+130 → DOVER - King George
+131 → QUEEN - Somebody to love
+132 → BON JOVI - Runaway
+133 → BRYAN ADAMS - Summer of '69
+134 → CHUCK BERRY - You can never tell
+135 → MOTÖRHEAD - Born to raise hell
+136 → TOTO - Africa
+137 → JUDAS PRIEST - United
+138 → MC5 - Kick out the jams
+139 → THE WHO - Pinball wizard
+140 → BRUCE SPRINGSTEEN - Hungry heart
+141 → SANTANA - Black magic woman
+142 → JETT JOAN & THE BLACKHEARTS - I love rock & roll
+143 → THE STROKES - Last night
+144 → METALLICA - For whom the bell tolls
+145 → DIRE STRAITS - So far away
+146 → FITO Y FITIPALDIS - Soldadito marinero
+147 → THE POLICE - Can't stand losing you
+148 → BARRICADA - En blanco y negro
+149 → THE BOX TOPS - The letter
+150 → U2 - Angel of Harlem
+151 → DOVER - Serenade
+152 → QUEEN - Breakthu
+153 → ZZ TOP - Viva Las Vegas
+154 → NO DOUBT - Just a girl
+155 → THE ANIMALS - The house of the rising sun
+156 → AC/DC - Who made who
+157 → BROWNE JACKSON - Stay
+158 → THE ROMANTICS - What I like about you
+159 → JOAQUÍN SABINA - La del pirata cojo
+160 → AMERICA - A horse with no name
+161 → SMASHING PUMPKINS - 1979
+162 → THE CALLING - Wherever you will go
+163 → BILLY IDOL - Mony Mony
+164 → AEROSMITH & RUN DMC - Walk this way
+165 → COLDPLAY - Speed of sound
+166 → U2 - Where the streets have no name
+167 → JIMI HENDRIX - All along the watchtower
+168 → DIRE STRAITS - Romeo & Juliet
+169 → PRETENDERS - Brass in pocket
+170 → STEALERS - Wheel stuck in the middle with you
+171 → NIRVANA - The man who sold the world
+172 → ALICE COOPER - Hey stupid
+173 → JETHRO TULL - Thick as a brick
+174 → JOE COCKER - Summer in the city
+175 → THE CURE - Lullaby
+176 → CREAM / ERIC CLAPTON - Sunshine of your love
+177 → THE STRANGLERS /THE KINKS - All day and all of the night
+178 → MARILYN MANSON - Sweet dreams (are made of this)
+179 → BRYAN ADAMS - Run to you
+180 → BLACK SABBATH - Heaven and hell
+181 → THE TRASHMEN - Surfin' bird
+182 → BON JOVI - Blaze of glory
+183 → RADIOHEAD - Creep
+184 → KISS - Rock and roll all nite
+185 → RAMONES - Sheena is a punk rocker
+186 → BRUCE SPRINGSTEEN - Dancing in the dark
+187 → VAN MORRISON - Bright side of the road
+188 → THE CLASH - Should I stay or should I go
+189 → PEARL JAM - Rearviewmirror
+190 → THE POLICE - Roxanne
+191 → THE BEATLES - Helter skelter
+192 → PLATERO Y TÚ - Hay poco rock and roll
+193 → QUEEN - We are the champions
+194 → BON JOVI - Born to be my baby
+195 → CHAD KROEGER / NICKELBACK - Hero
+197 → QUEENS OF THE STONE AGE - No one knows
+198 → GREEN DAY - Holiday
+199 → BILLY JOEL - Piano man
+200 → AC/DC - Let's get it up
+201 → GUNS N' ROSES - Since I don't have you
+202 → THE STROKES - Last night
+203 → U2 - Hold me, thrill me, kiss me, kill me
+204 → THE ROLLING STONES - It's only rock & roll (but I like it)
+205 → THE OFFSPRING - Kids aren't allright
+206 → SCORPIONS - Big city nights
+207 → RLVIS PRESLEY - Hound dog
+208 → THE VELVET UNDERGROUND - Sweet Jane
+209 → PRIMAL SCREAM - Rocks
+210 → RED HOT CHILI PEPPERS - Californication
+211 → MILLER STEVE BAND - Abracadabra
+212 → RAINBOW / DIO - Man on the Silver Mountain
+213 → PIXIES - Here comes your man
+214 → JOURNEY - Any way you want it
+215 → NIRVANA - Lithium
+216 → TED NUGENT - Land of a thousand dances
+217 → JERRY LEE LEWIS - Great balls of fire
+218 → RAGE AGAINST THE MACHINE - Killing in the name
+219 → GUNS N' ROSES - Welcome to the jungle
+220 → VAN MORRISON - Caravan
+221 → ASFALTO - Días de escuela
+222 → BON JOVI - Bed of roses
+223 → RAMONES - Blitzkrieg bop
+224 → U2 - Vertigo
+225 → FOO FIGHTERS - All my life
+226 → DIRE STRAITS - The bug
+227 → THE BEATLES - Revolution
+228 → WHITESNAKE - Fool for your lovin'
+229 → U2 - Beautiful day
+230 → THE ROLLING STONES - Brown sugar
+231 → MR. BIG - Wild world
+232 → SKID ROW - Youth gone wild
+233 → FACES - Stay with me
+234 → AEROSMITH - Living on the edge
+235 → LYNYRD SKYNYRD - Simple man
+236 → GUNS N' ROSES - You could be mine
+238 → GENESIS - Dancing with the moonlit knight
+238 → THIN LIZZY - Whiskey in the jar
+239 → THE BLACK CROWES - Remedy
+240 → STEVIE WONDER - Superstition
+241 → VAN HALEN - Panama
+242 → AC/DC - Whole lotta Rosie
+243 → SANTANA & THOMAS ROB - Smooth
+244 → IRON MAIDEN - The number of the beast
+245 → OASIS - Don't look back in anger
+246 → PINK FLOYD - Money
+247 → BOSTON - More than a feeling
+248 → RED HOT CHILI PEPPERS - Scar tissue
+249 → AIRBOURNE - Stand up for rock and roll
+250 → DIRE STRAITS - Money for nothing
+251 → WHITESNAKE - Still of the night
+252 → PEARL JAM - Even flow
+253 → COCKER JOE - With a little help from my friends
+254 → QUEEN - Don't stop me now
+255 → HEROES DEL SILENCIO - Entre dos tierras
+256 → THE ROLLING STONES - Love is strong
+257 → EUROPE - Rock the night
+258 → MEGADETH - Symphony of destruction
+259 → THE RUNAWAYS - Cherry bomb
+260 → THE OFFSPRING - Why don't you get a job
+261 → CREEDENCE CLEARWATER REVIVAL - Travelin' band
+262 → GUNS N' ROSES - Yesterdays
+263 → BRUCE SPRINGSTEEN - Lucky town
+264 → JANIS JOPLIN - Piece of my heart
+265 → METALLICA - Enter Sandman
+266 → THE BLACK CROWES - Conspiracy
+267 → STATUS QUO - Down down
+268 → OZZY OSBOURNE - Mama I'm coming home
+269 → BAD COMPANY - Can't get enough
+270 → AEROSMITH - Janie's got a gun
+271 → AC/DC - Hard as a rock
+272 → J. GEILS BAND - Centerfold
+273 → ROSENDO / LEÑO - Agradecido
+274 → FLEETWOOD MAC - Don't stop
+275 → METALLICA - The memory remains
+276 → BON JOVI - I'll be there for you
+277 → THE BEATLES - Lucy in the sky with diamonds
+278 → QUEEN - Tie your mother down
+279 → VAN HALEN - Ain't talkin' about love
+280 → EXTREME - More than words
+281 → R.E.M. - Losing my religion
+282 → BARÓN ROJO - Los rockeros van al infierno
+283 → THE KINKS - You really got me
+284 → GUNS N' ROSES - Civil war
+285 → FITO Y FITIPALDIS - La casa por el tejado
+286 → SCORPIONS - Rock you like a hurricane
+287 → JEFFERSON AIRPLANE - Somebody to love
+288 → MOUNTAIN - Mississippi queen
+289 → U2 - I still haven't found what I'm looking for
+290 → AMERICA - Sister golden hair
+291 → GREEN DAY - American idiot
+292 → SÔBER - Diez años
+293 → DIRE STRAITS - Walk of life
+294 → COUNTING CROWS - Mr. Jones
+295 → AC/DC - T.N.T.
+296 → LOQUILLO Y LOS TROGLODITAS - Cadillac solitario
+297 → AEROSMITH - Amazing
+298 → SYSTEM OF A DOWN - B.Y.O.B
+299 → THE DOORS - Riders on the storm
+300 → BRUCE SPRINGSTEEN - Badlands
+301 → DEF LEPPARD - Pour some sugar on me
+302 → STEVE MILLER BAND - Serenade from the stars
+303 → THE POLICE - Dpn't stand so close to me
+304 → MEGADETH - A tout le monde
+305 → THE BEATLES - Help
+306 → BON JOVI - Wanted dead or alive
+307 → M-CLAN - Quédate a dormir
+308 → GUNS N' ROSES - Knockin' on heaven's door
+309 → KISS - Detroit rock city
+310 → VAN MORRISON - Brown eyed girl
+311 → QUEEN - Hammer to fall
+312 → PLATERO Y TÚ - El roce de tu cuerpo
+313 → ROD STEWART - Hot legs
+314 → UFO - Lights out
+315 → SURVIVOR - The eye of the tiger
+316 → R.E.M. - Man on the moon
+317 → CANNED HEAT - On the road again
+318 → EVANESCENCE - Bring me to life
+319 → IRON MAIDEN - Hallowed be thy name
+320 → AEROSMITH - Dream on
+321 → NIRVANA - In bloom
+322 → MÖTLEY CRÜE - Kickstart my heart
+323 → ALICE COOPER - Poison
+324 → BON JOVI - Always
+325 → THE DOORS - Roadhouse blues
+326 → BRUCE SPRINGSTEEN - The rising
+327 → THE SWEET - Fox on the run
+328 → SCORPIONS - Send me an angel
+329 → LEÑO - Sorprendente
+330 → DIRE STRAITS - Brothers in arms
+331 → AC/DC - Moneytalks
+332 → JIMI HENDRIX - Foxy lady
+333 → GARY MOORE - Over the hills and far away
+334 → BLUR - Song 2
+335 → THE BEATLES - Ticket to ride
+336 → VAN HALEN - (Oh) Pretty woman
+337 → MICK JAGGER - God gave everything I want
+338 → SLADE - Cum on feel the noize
+339 → RAINBOW - Long live rock and roll
+340 → MEAT LOAF - I'd do anything for love
+341 → EUROPE - Carrie
+342 → THE KNACK - My Sharona
+343 → GREEN DAY - When I come around
+344 → BON JOVI - You give love a bad name
+345 → KANSAS - Dust in the wind
+346 → LEMONHEADS - Mrs. Robinson
+347 → LOQUILLO Y LOS TROGLODITAS - Rock and roll star
+348 → RAM JAM - Black Betty
+349 → TINA TURNER - Simply the best
+350 → NICKELBACK - How you remind me
+351 → QUEEN - A kind of magic
+352 → ZZ TOP - Tush
+353 → SPIN DOCTORS - Two princess
+354 → GENESIS - Invisible touch
+355 → GUNS N' ROSES - Live and let die
+356 → LED ZEPPELIN - Black dog
+357 → THE POLICE - Message in a bottle
+358 → SEX PISTOLS - God save the queen
+359 → THE OFFSPRING - Self esteem
+360 → AC/DC - Shoot to thrill
+361 → THE BEACH BOYS - Good vibrations
+362 → RED HOT CHILI PEPPERS - Give it away
+363 → DIRE STRAITS - Lady writter
+364 → BOB DYLAN - Hurricane
+365 → THE CURE - Friday I'm in love
+366 → MIDNIGHT OIL - Beds are burning
+367 → JOHN LENNON - Imagine
+368 → LENNY KRAVITZ - American woman
+369 → GEORGE THOROGOOD - Bad to the bone
+370 → GREEN DAY - Wake me up when September ends
+371 → JANIS JOPLIN - Mercedez Benz
+372 → RAINBOW - I surrender
+373 → DOVER - Cherry Lee
+374 → TOTO - Hold the line
+375 → U2 - New Year's Day
+376 → BOB SEGER - Oold time rock & roll
+377 → METALLICA - the unforgiven
+378 → BARÓN ROJO - Concierto para ellos
+379 → THE ROLLING STONES - Angie
+380 → HOLE - Celebrity skin
+381 → KISS - Heaven's on fire
+382 → THE BEATLES - Get back
+383 → AC/DC - For those about to rock
+384 → AEROSMITH - Cryin'
+385 → DEF LEPPARD - Make love like a man
+386 → THE ANIMALS - Don't let me be understood
+387 → BON JOVI - It's my life
+388 → PATTI SMITH - Because the night
+389 → HELLOWEEN - I want out
+390 → QUEEN - Too much love will kill you
+391 → TOM PETTY - Free fallin'
+392 → LOVIN' SPOONFUL - Summer in the city
+393 → LOQUILLO Y LOS TROGLODITAS - Feo, fuerte y formal
+394 → SUPERTRAMP - The logical song
+395 → BLACK SABBATH - War pigs
+396 → THE BEATLES - Drive my car
+397 → RAINBOW - Difficult to cure
+398 → HIM - Wicked game
+399 → STEVE MILLER BAND - The joker
+400 → GREEN DAY - Boulevard of broken dreams
+401 → BLONDIE - One way or another
+402 → SKID ROW - Big gun
+403 → MARK KNOPFLER - Going home
+404 → METALLICA - Whiskey in the jar
+405 → CREEDENCE CLEARWATER REVIVAL - Bad moon rising
+406 → SIMPLE MINDS - Don't you (forget about me)
+407 → WHITIN TEMPTATION - Stand my ground
+408 → IKE & TINA TURNER - Proud Mary
+409 → JOE COCKER - Unchain my heart
+410 → LENNY KRAVITZ - Fly away
+411 → JOHN LENNON - Stand by me
+412 → QUIET RIOT - Cum on feel the noize
+413 → THE PRESIDENTS OF THE USA - Lump
+414 → THE ROLLING STONES - Like a rolling stone
+415 → FRANZ FERDINAND - Take me out
+416 → DAVID BOWIE - Starman
+417 → BRUCE SPRINGSTEEN - Brilliant disguise
+418 → HEROES DEL SILENCIO - Maldito duende
+419 → QUEEN - Killer queen
+420 → JOAN JETT & THE BLACKHEARTS - Bad reputation
+421 → BON JOVI - Lay your hands on me
+422 → U2 - One
+423 → THE BEATLES - Day stripper
+424 → SANTANA & STEVEN TYLER - Just feel better
+425 → VAN HALEN - You really got me
+426 → DEEP PURPLE - Hush
+427 → DOVER - Devil come to me
+428 → SANTANA - Evil ways
+429 → R.E.M. - Imitation of life
+430 → QUEEN - Crazy little thing called love
+431 → AC/DC - It's a long way to the top
+432 → SOUNDGARDEN - Black hole sun
+433 → BOSTON - Rock and roll band
+434 → OBÚS - Vamos muy bien
+435 → THE OFFSPRING - Pretty fly (for a white guy)
+436 → RAMONES - Rockaway Beach
+437 → ASIA - Heat of the moment
+438 → THE BLACK KEYS - Little black submarines
+439 → BRYAN ADAMS - Heaven
+440 → GARY MOORE - Parisienne walkways
+441 → AEROSMITH - Crazy
+442 → LOQUILLO Y LOS TROGLODITAS - El rompeolas
+443 → THE KINKS - Lola
+444 → ROY ORBISON - I drove all night
+445 → BOSTON - Smokin'
+446 → AC/DC - Hells bells
+447 → BON JOVI - Have a nice day
+448 → THE DOORS - People are strange
+449 → TWISTED SISTER - I wanna rock
+450 → THE CRANBERRIES - Zombie
+451 → QUEEN - Another one bites the dust
+452 → ELVIS PRESLEY - Stuck on you
+453 → ELECTRIC LIGHT ORCHESTRA - Roll over Beethoven
+454 → AIRBOURNE - Runnin' wild
+455 → GUNS N' ROSES - Don't cry
+456 → IGGY POP - The pasenger
+457 → DIO - Holy diver
+458 → MOTLEY CRUE - Girls girls girls
+459 → EVANESCENCE - Going under
+460 → EXTREMODURO - Ama ama ama y ensancha el alma
+461 → PAUL MCCARTNEY - Live and let die
+462 → BURNING - Mueve tus caderas
+463 → JEFFERSON AIRPLANE - White rabbit
+464 → SCORPIONS - No one like you
+465 → LEMONHEADS - I'll do it anyway
+466 → BON JOVI - Keep the faith
+467 → JET - Are you gonna be my girl
+468 → WHITESNAKE - Guilty of love
+469 → WOLFMOTHER - Woman
+470 → U2 - Desire
+471 → TEQUILA - Rock&roll en la plaza del pueblo
+472 → STONE TEMPLE PILOTS - Plush
+473 → IRON MAIDEN - The trooper
+474 → THE KINKS - All day and all of the night
+475 → MUSE - Uprising
+476 → CREEDENCE CLEARWATER REVIVAL - Good goly miss Molly
+477 → GEORGE HARRISON - Got my mind set on you
+478 → THE DARKNESS - I believe in a thing called love
+479 → LED ZEPPELIN - I'm gonna leave you
+480 → LENNY KRAVITZ - Are you gonna go my way
+481 → BEASTIE BOYS - Fight for your right
+482 → RAINBOW - Since you been gone
+483 → LINKIN PARK - Numb
+484 → BARON ROJO - Resistiré
+485 → WARRANT - Cherry pie
+486 → DIRE STRAITS - Calling Elvis
+487 → THE OFFSPRING - Come out and play
+488 → AC/DC - Girls got rythm
+489 → TOM PETTY - Runnin' down a dream
+490 → RUSH - The spirit of radio
+491 → RED HOT CHILI PEPPERS - Dani California
+492 → EUROPE - Superstitious
+493 → THE WHO - Who are you
+494 → METALLICA - Fuel
+495 → LEÑO / ROSENDO - No se vende el rock and roll
+496 → GREEN DAY - Know your enemy
+497 → KISS - Lick it up
+498 → AEROSMITH - Eat the rich
+499 → THE SWEET - The ballroom blitz
+500 → BRUCE SPRINGSTEEN - Radio Nowhere
