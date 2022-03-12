@@ -1,21 +1,4 @@
-https://www.rockfm.fm/rockfm-500/noticias/rockfm-500-lista-directo-20200925_911704
-RockFM 500
-
-Consulta la lista completa del RockFM 500 - VIII Edición
-
-Consulta la lista completa del RockFM 500 - VIII Edición
-Descubre las canciones que han integrado la lista del RockFM 500 en 2020
-
-Javier Hualde
-
-Javier Hualde
-
-Tiempo de lectura: 28’
-25 sept. 2020Actualizado 27 sept. 2020 18:01
-
-¡Hasta aquí el RockFM 500! En un 2020 lleno de sorpresas, nuestro maratón no ha sido una excepción y así lo demuestran nuestras 500 canciones. Puedes ver la lista a continuación.
-LA LISTA DEL ROCKFM 500
-
+#https://www.rockfm.fm/rockfm-500/noticias/rockfm-500-lista-directo-20200925_911704
 01. AC/DC - Highway To Hell
 La carretera que llevó el hard rock a todas partes del globo y del tiempo. ¡Muchas gracias por acompañarnos hasta el final!
 
@@ -925,7 +908,7 @@ No tienes muchas ganas de grabar, pero la compañía te lo exige. Bueno, son The
 301. Nickelback - How You Remind Me
 Una canción que entra a última hora y se convierte en tu estandarte.
 
-302. Bon Jovi Keep The Faith
+302. Bon Jovi - Keep The Faith
 Un disco con el que empezar de nuevo, y una canción que no falla en tus directos.
 
 303. Jethro Tull – Aqualung
@@ -1127,7 +1110,7 @@ El himno más furioso de Dylan.
 368. Black Sabbath - Heaven & Hell
 La voz de Dio se convirtió en un soplo de aire fresco para el conjunto inglés.
 
-369 Spin Doctors - Two Princess
+369. Spin Doctors - Two Princess
 Esta canción fue tocada por el grupo en 'Barrio Sésamo'.
 
 370. Los Suaves - Dolores Se Llamaba Lola
@@ -1316,7 +1299,7 @@ Uno de los éxitos de Mötley Crüe, que, sin embargo, nunca llegó a ser númer
 431. The Zombies -The Time Of The Season
 Muy versionada a posteriori, la canción triunfó tras la separación de la banda.
 
-432- Foreigner - Cold As Ice
+432. Foreigner - Cold As Ice
 La canción habla de una mujer egoísta y materialista, a la que la banda advierte de que su mal comportamiento volverá para perseguirla.
 
 433. Roy Orbison - I Drove All Night
@@ -1397,7 +1380,7 @@ Rob Halford sí que sabía como salir de fiesta.
 458. Meat Loaf - I'd do Anything For Love
 Mucha gente se ha preguntado qué es el “eso” que Meat Loaf no haría y resulta que solo es lo que menciona en la estrofa anterior.
 
-459 Van Morrison - Brown Eyed Girl
+459. Van Morrison - Brown Eyed Girl
 El tema que demostró que no tenías que tener los ojos verdes para que te dedicaran una canción.
 
 460. Dio - Rainbow In The Dark
