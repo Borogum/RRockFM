@@ -3,7 +3,7 @@ import csv
 
 class MyCsvDialect(csv.Dialect):
     delimiter = ","
-    escapechar = '\\'
+    escapechar = '"'
     doublequote = False
     skipinitialspace = True
     lineterminator = '\n'
